@@ -1,0 +1,8 @@
+{
+    "name": "LSST DM Python mypy Workflow",
+    "description": "Template for checking Python types for LSST DM.",
+    "iconName": "python.svg",
+    "categories": [
+        "Python"
+    ]
+}

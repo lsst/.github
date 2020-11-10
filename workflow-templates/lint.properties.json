@@ -1,0 +1,8 @@
+{
+    "name": "LSST DM Python lint Workflow",
+    "description": "Template for checking Python syntax and style for LSST DM.",
+    "iconName": "python.svg",
+    "categories": [
+        "Python"
+    ]
+}
