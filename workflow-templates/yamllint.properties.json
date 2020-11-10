@@ -1,5 +1,5 @@
 {
     "name": "LSST DM YAML lint Workflow",
     "description": "Template for checking YAML syntax and style for LSST DM.",
-    "iconName": "Document_Check_2124275.svg"
+    "iconName": "Document_Check_2124275"
 }
