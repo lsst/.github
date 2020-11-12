@@ -1,0 +1,5 @@
+{
+    "name": "LSST DM shellcheck Workflow",
+    "description": "Template for checking shell script syntax and style for LSST DM.",
+    "iconName": "Document_Check_2124275"
+}

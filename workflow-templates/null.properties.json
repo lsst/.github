@@ -1,0 +1,5 @@
+{
+    "name": "LSST DM null Workflow",
+    "description": "Template for an empty check for branch protection.",
+    "iconName": "Document_Check_2124275"
+}
