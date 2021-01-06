@@ -1,0 +1,5 @@
+{
+    "name": "LSST DM Markdown lint Workflow",
+    "description": "Template for checking Markdown syntax for LSST DM.",
+    "iconName": "Document_Check_2124275"
+}
