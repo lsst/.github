@@ -1,8 +1,10 @@
 name: Empty check for branch protection
 
 on:
-  - push
-  - pull_request
+  push:
+    branches:
+      - master
+  pull_request:
 
 jobs:
   null_check:
