@@ -21,4 +21,4 @@ jobs:
         run: pip install -r <(curl https://raw.githubusercontent.com/lsst/linting/master/requirements.txt)
 
       - name: Run linter
-        run: flake8
+        run: flake8 --ignore=E133,E226,E228 --max-line-length=110 --max-doc-length=79 --exclude bin,doc,**/*/__init.py,**/*/version.py,tests/.tests
