@@ -1,0 +1,8 @@
+{
+    "name": "LSST DM Python Code Formatting Workflow",
+    "description": "Template for checking Python code is formatted properly.",
+    "iconName": "python",
+    "categories": [
+        "Python"
+    ]
+}
