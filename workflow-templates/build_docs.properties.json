@@ -1,0 +1,5 @@
+{
+    "name": "LSST DM Build docs Workflow",
+    "description": "Template to build documentation with documenteer.",
+    "iconName": "python"
+}

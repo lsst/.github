@@ -1,0 +1,5 @@
+{
+    "name": "LSST DM pydocstyle Workflow",
+    "description": "Template checking Python documentation style for LSST DM.",
+    "iconName": "python"
+}
