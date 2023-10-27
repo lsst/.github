@@ -1,0 +1,5 @@
+{
+    "name": "LSST DM CMake Workflow",
+    "description": "Template to build package with CMake.",
+    "iconName": "Cmake"
+}
