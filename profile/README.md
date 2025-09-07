@@ -8,8 +8,8 @@ As a fanatically open-source project, we have a number of additional GitHub orgs
 
 | Org                                     | What |
 |---------------------------------        | -----|
-| [lsst](https://github.org/lsst)         | Science-facing software, including the LSST Science Pipelines repositories |
-| [lsst-dm](https://github.org/lsst-dm)   | Data Management team repos |
+| [lsst](https://github.com/lsst)         | Science-facing software, including the LSST Science Pipelines repositories |
+| [lsst-dm](https://github.com/lsst-dm)   | Data Management team repos |
 | [lsst-epo](https://github.com/lsst-epo) | Education and Public Outreach team repos |
 | [lsst-sitcom](https://github.com/lsst-sitcom) | System Intergration and Commissioning team repos |
 | [lsst-sqre](https://github.com/lsst-sqre) | SQuaRE team repos (inc. Rubin Science Platform )| 
